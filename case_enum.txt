@@ -1,0 +1,482 @@
+
+status: [True, True, True, True, True]
+renegade: 0
+
+status: [True, True, True, True, True]
+renegade: 1
+
+status: [True, True, True, True, True]
+renegade: 2
+
+status: [True, True, True, True, True]
+renegade: 3
+
+status: [True, True, True, True, True]
+renegade: 4
+
+status: [True, True, True, True, False]
+renegade: 0
+
+status: [True, True, True, True, False]
+renegade: 1
+
+status: [True, True, True, True, False]
+renegade: 2
+
+status: [True, True, True, True, False]
+renegade: 3
+
+status: [True, True, True, True, False]
+renegade: 4
+
+status: [True, True, True, False, True]
+renegade: 0
+
+status: [True, True, True, False, True]
+renegade: 1
+
+status: [True, True, True, False, True]
+renegade: 2
+
+status: [True, True, True, False, True]
+renegade: 3
+
+status: [True, True, True, False, True]
+renegade: 4
+
+status: [True, True, True, False, False]
+renegade: 0
+
+status: [True, True, True, False, False]
+renegade: 1
+
+status: [True, True, True, False, False]
+renegade: 2
+
+status: [True, True, True, False, False]
+renegade: 3
+
+status: [True, True, True, False, False]
+renegade: 4
+
+status: [True, True, False, True, True]
+renegade: 0
+
+status: [True, True, False, True, True]
+renegade: 1
+
+status: [True, True, False, True, True]
+renegade: 2
+
+status: [True, True, False, True, True]
+renegade: 3
+
+status: [True, True, False, True, True]
+renegade: 4
+
+status: [True, True, False, True, False]
+renegade: 0
+
+status: [True, True, False, True, False]
+renegade: 1
+
+status: [True, True, False, True, False]
+renegade: 2
+
+status: [True, True, False, True, False]
+renegade: 3
+
+status: [True, True, False, True, False]
+renegade: 4
+
+status: [True, True, False, False, True]
+renegade: 0
+
+status: [True, True, False, False, True]
+renegade: 1
+
+status: [True, True, False, False, True]
+renegade: 2
+
+status: [True, True, False, False, True]
+renegade: 3
+
+status: [True, True, False, False, True]
+renegade: 4
+
+status: [True, True, False, False, False]
+renegade: 0
+
+status: [True, True, False, False, False]
+renegade: 1
+
+status: [True, True, False, False, False]
+renegade: 2
+
+status: [True, True, False, False, False]
+renegade: 3
+
+status: [True, True, False, False, False]
+renegade: 4
+
+status: [True, False, True, True, True]
+renegade: 0
+
+status: [True, False, True, True, True]
+renegade: 1
+
+status: [True, False, True, True, True]
+renegade: 2
+
+status: [True, False, True, True, True]
+renegade: 3
+
+status: [True, False, True, True, True]
+renegade: 4
+
+status: [True, False, True, True, False]
+renegade: 0
+
+status: [True, False, True, True, False]
+renegade: 1
+
+status: [True, False, True, True, False]
+renegade: 2
+
+status: [True, False, True, True, False]
+renegade: 3
+
+status: [True, False, True, True, False]
+renegade: 4
+
+status: [True, False, True, False, True]
+renegade: 0
+
+status: [True, False, True, False, True]
+renegade: 1
+
+status: [True, False, True, False, True]
+renegade: 2
+
+status: [True, False, True, False, True]
+renegade: 3
+
+status: [True, False, True, False, True]
+renegade: 4
+
+status: [True, False, True, False, False]
+renegade: 0
+
+status: [True, False, True, False, False]
+renegade: 1
+
+status: [True, False, True, False, False]
+renegade: 2
+
+status: [True, False, True, False, False]
+renegade: 3
+
+status: [True, False, True, False, False]
+renegade: 4
+
+status: [True, False, False, True, True]
+renegade: 0
+
+status: [True, False, False, True, True]
+renegade: 1
+
+status: [True, False, False, True, True]
+renegade: 2
+
+status: [True, False, False, True, True]
+renegade: 3
+
+status: [True, False, False, True, True]
+renegade: 4
+
+status: [True, False, False, True, False]
+renegade: 0
+
+status: [True, False, False, True, False]
+renegade: 1
+
+status: [True, False, False, True, False]
+renegade: 2
+
+status: [True, False, False, True, False]
+renegade: 3
+
+status: [True, False, False, True, False]
+renegade: 4
+
+status: [True, False, False, False, True]
+renegade: 0
+
+status: [True, False, False, False, True]
+renegade: 1
+
+status: [True, False, False, False, True]
+renegade: 2
+
+status: [True, False, False, False, True]
+renegade: 3
+
+status: [True, False, False, False, True]
+renegade: 4
+
+status: [True, False, False, False, False]
+renegade: 0
+
+status: [True, False, False, False, False]
+renegade: 1
+
+status: [True, False, False, False, False]
+renegade: 2
+
+status: [True, False, False, False, False]
+renegade: 3
+
+status: [True, False, False, False, False]
+renegade: 4
+
+status: [False, True, True, True, True]
+renegade: 0
+
+status: [False, True, True, True, True]
+renegade: 1
+
+status: [False, True, True, True, True]
+renegade: 2
+
+status: [False, True, True, True, True]
+renegade: 3
+
+status: [False, True, True, True, True]
+renegade: 4
+
+status: [False, True, True, True, False]
+renegade: 0
+
+status: [False, True, True, True, False]
+renegade: 1
+
+status: [False, True, True, True, False]
+renegade: 2
+
+status: [False, True, True, True, False]
+renegade: 3
+
+status: [False, True, True, True, False]
+renegade: 4
+
+status: [False, True, True, False, True]
+renegade: 0
+
+status: [False, True, True, False, True]
+renegade: 1
+
+status: [False, True, True, False, True]
+renegade: 2
+
+status: [False, True, True, False, True]
+renegade: 3
+
+status: [False, True, True, False, True]
+renegade: 4
+
+status: [False, True, True, False, False]
+renegade: 0
+
+status: [False, True, True, False, False]
+renegade: 1
+
+status: [False, True, True, False, False]
+renegade: 2
+
+status: [False, True, True, False, False]
+renegade: 3
+
+status: [False, True, True, False, False]
+renegade: 4
+
+status: [False, True, False, True, True]
+renegade: 0
+
+status: [False, True, False, True, True]
+renegade: 1
+
+status: [False, True, False, True, True]
+renegade: 2
+
+status: [False, True, False, True, True]
+renegade: 3
+
+status: [False, True, False, True, True]
+renegade: 4
+
+status: [False, True, False, True, False]
+renegade: 0
+
+status: [False, True, False, True, False]
+renegade: 1
+
+status: [False, True, False, True, False]
+renegade: 2
+
+status: [False, True, False, True, False]
+renegade: 3
+
+status: [False, True, False, True, False]
+renegade: 4
+
+status: [False, True, False, False, True]
+renegade: 0
+
+status: [False, True, False, False, True]
+renegade: 1
+
+status: [False, True, False, False, True]
+renegade: 2
+
+status: [False, True, False, False, True]
+renegade: 3
+
+status: [False, True, False, False, True]
+renegade: 4
+
+status: [False, True, False, False, False]
+renegade: 0
+
+status: [False, True, False, False, False]
+renegade: 1
+
+status: [False, True, False, False, False]
+renegade: 2
+
+status: [False, True, False, False, False]
+renegade: 3
+
+status: [False, True, False, False, False]
+renegade: 4
+
+status: [False, False, True, True, True]
+renegade: 0
+
+status: [False, False, True, True, True]
+renegade: 1
+
+status: [False, False, True, True, True]
+renegade: 2
+
+status: [False, False, True, True, True]
+renegade: 3
+
+status: [False, False, True, True, True]
+renegade: 4
+
+status: [False, False, True, True, False]
+renegade: 0
+
+status: [False, False, True, True, False]
+renegade: 1
+
+status: [False, False, True, True, False]
+renegade: 2
+
+status: [False, False, True, True, False]
+renegade: 3
+
+status: [False, False, True, True, False]
+renegade: 4
+
+status: [False, False, True, False, True]
+renegade: 0
+
+status: [False, False, True, False, True]
+renegade: 1
+
+status: [False, False, True, False, True]
+renegade: 2
+
+status: [False, False, True, False, True]
+renegade: 3
+
+status: [False, False, True, False, True]
+renegade: 4
+
+status: [False, False, True, False, False]
+renegade: 0
+
+status: [False, False, True, False, False]
+renegade: 1
+
+status: [False, False, True, False, False]
+renegade: 2
+
+status: [False, False, True, False, False]
+renegade: 3
+
+status: [False, False, True, False, False]
+renegade: 4
+
+status: [False, False, False, True, True]
+renegade: 0
+
+status: [False, False, False, True, True]
+renegade: 1
+
+status: [False, False, False, True, True]
+renegade: 2
+
+status: [False, False, False, True, True]
+renegade: 3
+
+status: [False, False, False, True, True]
+renegade: 4
+
+status: [False, False, False, True, False]
+renegade: 0
+
+status: [False, False, False, True, False]
+renegade: 1
+
+status: [False, False, False, True, False]
+renegade: 2
+
+status: [False, False, False, True, False]
+renegade: 3
+
+status: [False, False, False, True, False]
+renegade: 4
+
+status: [False, False, False, False, True]
+renegade: 0
+
+status: [False, False, False, False, True]
+renegade: 1
+
+status: [False, False, False, False, True]
+renegade: 2
+
+status: [False, False, False, False, True]
+renegade: 3
+
+status: [False, False, False, False, True]
+renegade: 4
+
+status: [False, False, False, False, False]
+renegade: 0
+
+status: [False, False, False, False, False]
+renegade: 1
+
+status: [False, False, False, False, False]
+renegade: 2
+
+status: [False, False, False, False, False]
+renegade: 3
+
+status: [False, False, False, False, False]
+renegade: 4
+
+Succeeded!
