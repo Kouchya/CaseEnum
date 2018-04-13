@@ -1,0 +1,424 @@
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, True]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, True, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: False
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, True, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, True, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: True
+renegade returns to senders in round 1: [True, False, False, False, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, True]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+status: [True, True, True, False, False]
+renegade: 0
+renegade sends to receiver in round 1: True
+renegade sends to receiver in round 2: True
+renegade sends to receiver in round 3: False
+renegade returns to senders in round 1: [True, True, True, True, False]
+renegade returns to senders in round 2: [True, True, True, True, True]
+renegade returns to senders in round 3: [True, True, True, True, True]
+
+Failed!
